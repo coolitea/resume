@@ -9,14 +9,14 @@ Senior Software Engineer - Where my experience of programming more than 15 years
 ## EDUCATION AND CERTIFICATION:
 
 - **Kaist, Seoul, Korea**
-  - Master of Science in Software Graduate Program
+  - **Master of Science** in Software Graduate Program
   - Mar 2016 - Feb 2018
 - **Korea University, Seoul, Korea**
-  - Bachelor of Computer Science
+  - **Bachelor of Computer Science**
   - Minor: Business Management
   - Mar 2003 - Feb 2008
 - **University of British Columbia, Vancouver, B.C. Canada**
-  - participated in KU-UBC Joint Academic Program
+  - participated in **KU-UBC Joint Academic Program**
   - took Computer Science, Electrical and Computer Engineering, and Commerce courses.
   - Sep 2006 - Aug 2007
 - June 30, 2007 **SUN CERTIFIED PROGRAMMER FOR THE JAVA 2 PLATFORM, STANDARD EDITION 5.0**
