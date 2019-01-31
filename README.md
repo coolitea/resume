@@ -28,7 +28,7 @@
 
 * **Mobile Application Developer**
 
-  - Paper : HYUN JUNG PARK, [Young Whan Kim](http://kcamp.kaist.ac.kr). (2017) [Developing Social Media Specialized in Contribution](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07322141). The Korean Institute of Information Scientists and Engineers(KIISE)
+  - Paper : HYUN JUNG PARK, [Young Whan Kim](https://cs.kaist.ac.kr/people/view?idx=514&kind=faculty&menu=160). (2017) [Developing Social Media Specialized in Contribution](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07322141). The Korean Institute of Information Scientists and Engineers(KIISE)
   - _Dec 2016 - Dec 2017_
   - _Seoul, South Korea_
   - Payments: Stripe Connect, Stripe Payments
