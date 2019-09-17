@@ -13,7 +13,7 @@
 
 - **Senior Software Engineer**
   - IT Strategy & Planning Department, [**Korea Securities Depository**](https://www.ksd.or.kr/eng/index.home) (a.k.a. KSD)
-  - _Jan 2018 - Feb 2019 Present_
+  - _Jan 2018 - Sep 2019 Present_
   - _Busan, South Korea_
   - Web based Application Development for Financial Services
     - UI/UX
