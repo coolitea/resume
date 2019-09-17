@@ -17,10 +17,10 @@
   - _Busan, South Korea_
   - Web based Application Development for Financial Services
     - UI/UX
-    - Front End Development : JavaScript, CSS 3, HTML 5, Bootstrap
+    - Front End Development : HTML5, CSS3, JavaScript, React, Ant Design, Bootstrap
     - Back End Development : Node.js, Express
     - Version control : Git, SVN
-    - Tools : Visual Studio Code, Atom, Splunk
+    - Tools : Visual Studio Code, Splunk
     - BEM Methodology
   - Government Enterprise Architect Management for KSD using [GEAP](www.geap.go.kr)
   - IT Service Management
